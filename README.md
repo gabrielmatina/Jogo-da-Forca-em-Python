@@ -20,14 +20,10 @@ Para executar o jogo da forca, siga as instruções abaixo:
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone ou faça o download do repositório do jogo.
 3. Navegue até o diretório onde o jogo está localizado.
-4. Execute o arquivo `jogo_da_forca.py` utilizando o interpretador Python.
+4. Execute o arquivo `Jogo_da_forca.py` utilizando o interpretador Python.
 5. Siga as instruções apresentadas no console para jogar a forca.
 6. Divirta-se tentando adivinhar o nome da fruta!
 
 ## Contribuição
 
 Contribuições para este projeto são bem-vindas. Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar o jogo.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
